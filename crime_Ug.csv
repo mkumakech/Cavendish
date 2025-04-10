@@ -1,0 +1,188 @@
+REGIONS/DISTRICTS,ECONOMIC,BREAKINGS,THEFTS,ROBBERIES,HOMICIDES,SEX REL,CHILD REL,ASSAULTS,POL/MEDIA,NARCOTICS,Property Crimes,Violent Crimes,Public & Regulatory Crimes,Highest Crime Type,Lowest Crime Type,Total Cases
+C.I.D Headquarters,723,1,92,5,3,12,3,14,44,36,821,32,80,Property Crimes,Violent Crimes,1774
+C.I.D,723,1,92,5,3,12,3,14,44,36,821,32,80,Property Crimes,Violent Crimes,1774
+Jinja Road,197,75,468,76,12,110,10,122,5,30,816,254,35,Property Crimes,Public & Regulatory Crimes,1742
+Kira Division,125,120,401,99,16,117,20,73,10,10,745,226,20,Property Crimes,Public & Regulatory Crimes,1581
+Kira Road,160,123,677,147,16,93,122,274,11,51,1107,505,62,Property Crimes,Public & Regulatory Crimes,2671
+Mukono,182,185,798,68,22,222,28,234,18,27,1233,506,45,Property Crimes,Public & Regulatory Crimes,2770
+Nagalama,48,66,257,39,20,124,8,151,6,9,410,303,15,Property Crimes,Public & Regulatory Crimes,1199
+KMP EAST,711,569,283,430,85,666,187,853,50,126,1710,1791,176,Violent Crimes,Public & Regulatory Crimes,7354
+CPS Kampala,472,41,642,40,7,12,2,81,16,22,1195,102,38,Property Crimes,Public & Regulatory Crimes,2028
+Katwe,161,89,645,87,36,273,326,305,6,34,982,940,40,Property Crimes,Public & Regulatory Crimes,3279
+Kabalagala,130,95,478,85,31,119,28,178,3,34,788,356,37,Property Crimes,Public & Regulatory Crimes,1884
+Kajjansi,77,56,390,51,10,24,24,25,13,32,574,83,32,Property Crimes,Public & Regulatory Crimes,988
+Entebbe,134,89,315,44,23,111,24,90,12,23,582,248,35,Property Crimes,Public & Regulatory Crimes,1415
+Nsangi,122,100,319,73,26,111,25,112,2,10,614,274,12,Property Crimes,Public & Regulatory Crimes,1481
+KMP SOUTH,97,469,283,381,133,650,429,791,39,156,850,2003,195,Violent Crimes,Public & Regulatory Crimes,6096
+Old Kampala,248,108,785,150,39,134,301,334,24,21,1291,808,45,Property Crimes,Public & Regulatory Crimes,3503
+Wakiso,136,91,355,65,18,117,100,43,8,17,647,278,25,Property Crimes,Public & Regulatory Crimes,1545
+Wandegeya,137,57,372,52,14,40,94,96,5,19,618,244,24,Property Crimes,Public & Regulatory Crimes,1400
+Kawempe,135,114,607,124,29,172,107,250,40,31,980,558,71,Property Crimes,Public & Regulatory Crimes,2611
+Nansana,152,116,477,92,14,171,28,81,12,18,837,294,30,Property Crimes,Public & Regulatory Crimes,1845
+Kakiri,52,25,116,5,7,38,1,58,7,9,198,104,16,Property Crimes,Public & Regulatory Crimes,520
+Kasangati,163,120,437,153,31,161,75,117,2,11,873,384,13,Property Crimes,Public & Regulatory Crimes,2103
+KMP NORTH,97,630,283,643,154,832,706,980,98,124,1273,2672,222,Violent Crimes,Public & Regulatory Crimes,8334
+Luwero,139,83,514,75,73,199,109,129,1,11,811,510,12,Property Crimes,Public & Regulatory Crimes,2152
+Nakaseke,39,51,279,26,63,127,42,212,3,5,395,444,8,Violent Crimes,Public & Regulatory Crimes,1415
+Nakasongola,32,26,245,23,31,100,66,110,7,8,326,307,15,Property Crimes,Public & Regulatory Crimes,1051
+SAVANNAH,210,160,283,124,167,426,217,452,11,24,494,1262,35,Violent Crimes,Public & Regulatory Crimes,3582
+Buikwe,100,83,266,53,52,217,86,170,1,7,502,525,8,Violent Crimes,Public & Regulatory Crimes,1804
+Kayunga,76,110,361,34,23,126,59,117,9,6,581,325,15,Property Crimes,Public & Regulatory Crimes,1481
+Njeru,27,51,218,16,51,77,45,73,13,13,312,246,13,Property Crimes,Public & Regulatory Crimes,924
+Buvuma,71,40,247,26,29,66,11,291,2,7,384,397,9,Violent Crimes,Public & Regulatory Crimes,1333
+SEZIBWA,274,284,283,129,155,487,202,651,12,32,687,1495,44,Violent Crimes,Public & Regulatory Crimes,4452
+Butambala,142,122,475,33,13,123,19,307,12,21,772,462,33,Property Crimes,Public & Regulatory Crimes,2059
+Gomba,114,78,582,21,20,126,53,503,4,2,795,702,6,Property Crimes,Public & Regulatory Crimes,2424
+Mpigi,151,144,866,59,29,182,79,454,13,15,1220,744,15,Property Crimes,Public & Regulatory Crimes,3092
+KATONGA,406,344,283,113,63,431,152,237,16,37,863,646,53,Property Crimes,Public & Regulatory Crimes,3124
+Kiboga,39,68,256,33,17,90,10,108,9,10,396,225,19,Property Crimes,Public & Regulatory Crimes,1024
+Mubende,57,96,278,51,57,189,34,80,1,20,482,360,21,Property Crimes,Public & Regulatory Crimes,1448
+Kassanda,49,96,238,35,44,168,4,105,4,22,418,321,26,Property Crimes,Public & Regulatory Crimes,1292
+Mityana,94,110,348,41,27,172,15,122,13,10,593,336,23,Property Crimes,Public & Regulatory Crimes,1556
+Kyankwanzi,28,27,156,13,29,81,11,74,15,8,224,195,23,Property Crimes,Public & Regulatory Crimes,728
+WAMALA,267,396,283,174,175,702,75,488,42,69,837,1440,111,Violent Crimes,Public & Regulatory Crimes,4776
+Rakai,28,57,163,14,29,107,38,90,13,8,262,264,8,Violent Crimes,Public & Regulatory Crimes,905
+Lyantonde,18,33,134,22,7,54,71,115,2,15,207,247,17,Violent Crimes,Public & Regulatory Crimes,808
+Masaka,113,111,488,44,69,187,57,136,18,53,756,449,71,Property Crimes,Public & Regulatory Crimes,2064
+Kyotera,44,94,360,16,22,127,23,127,13,18,514,299,18,Property Crimes,Public & Regulatory Crimes,1302
+Sembabule,49,91,379,34,98,123,63,197,7,10,553,481,17,Property Crimes,Public & Regulatory Crimes,1723
+Bukomansimbi,27,60,236,23,8,92,21,83,13,27,346,204,27,Property Crimes,Public & Regulatory Crimes,918
+Kalungu,26,44,216,27,35,70,20,36,2,8,313,161,10,Property Crimes,Public & Regulatory Crimes,752
+Lwengo,46,66,308,21,62,149,93,280,10,10,441,584,20,Violent Crimes,Public & Regulatory Crimes,1782
+Kalangala,15,31,144,7,36,56,14,83,4,7,197,189,11,Property Crimes,Public & Regulatory Crimes,650
+GREATER MASAKA,365,588,283,209,366,966,400,237,43,155,1162,1732,198,Violent Crimes,Public & Regulatory Crimes,6184
+Kisoro,29,27,100,33,48,75,14,136,4,9,189,273,13,Violent Crimes,Public & Regulatory Crimes,850
+Kabale,56,66,272,114,46,54,70,375,1,19,508,545,20,Violent Crimes,Public & Regulatory Crimes,1874
+Rukiga,24,19,116,24,14,18,20,200,13,1,183,252,1,Violent Crimes,Public & Regulatory Crimes,756
+Rubanda,9,29,62,15,21,40,27,191,16,9,115,279,25,Violent Crimes,Public & Regulatory Crimes,776
+Kanungu,33,32,180,23,29,66,57,90,13,2,268,242,15,Property Crimes,Public & Regulatory Crimes,870
+Rukungiri,115,133,576,82,88,108,29,416,22,20,906,641,42,Property Crimes,Public & Regulatory Crimes,2602
+KIGEZI,266,307,283,292,246,362,216,237,56,59,865,824,115,Property Crimes,Public & Regulatory Crimes,3608
+Mbarara,92,131,676,158,92,111,61,423,5,39,1057,687,44,Property Crimes,Public & Regulatory Crimes,2900
+Ibanda,42,88,325,29,33,76,48,278,13,2,484,435,2,Property Crimes,Public & Regulatory Crimes,1517
+Ntungamo,81,156,490,60,75,123,19,482,7,12,787,699,19,Property Crimes,Public & Regulatory Crimes,2520
+Kazo,40,70,315,30,22,71,20,51,3,7,455,164,10,Property Crimes,Public & Regulatory Crimes,943
+Rwampara,51,48,294,41,25,54,13,223,8,13,434,315,21,Property Crimes,Public & Regulatory Crimes,1246
+Kiruhura,65,70,648,47,17,113,23,503,1,18,830,656,19,Property Crimes,Public & Regulatory Crimes,2362
+Isingiro,34,114,293,39,60,134,34,230,10,11,480,458,21,Property Crimes,Public & Regulatory Crimes,1625
+RWIZI,404,677,283,405,325,683,218,237,34,101,1486,1226,135,Property Crimes,Public & Regulatory Crimes,5694
+Bushenyi,46,136,397,52,33,75,45,214,8,12,631,367,20,Property Crimes,Public & Regulatory Crimes,1639
+Mitooma,41,36,408,28,24,71,54,400,3,8,513,549,11,Violent Crimes,Public & Regulatory Crimes,1738
+Rubirizi,30,59,232,18,27,57,42,178,13,6,339,304,6,Property Crimes,Public & Regulatory Crimes,1066
+Buhweju,27,38,151,24,24,32,8,94,13,,240,158,0,Property Crimes,Public & Regulatory Crimes,645
+Sheema,25,66,332,27,34,52,53,171,1,14,450,310,15,Property Crimes,Public & Regulatory Crimes,1218
+GREATER BUSHENYI,169,336,283,149,141,287,203,237,12,39,654,631,51,Property Crimes,Public & Regulatory Crimes,2672
+Masindi,57,64,235,31,46,116,208,202,6,7,387,572,13,Violent Crimes,Public & Regulatory Crimes,1709
+Kiryandongo,67,131,339,37,71,192,221,180,2,6,574,664,8,Violent Crimes,Public & Regulatory Crimes,2153
+Kibaale,29,52,156,26,22,78,55,154,9,9,263,309,18,Violent Crimes,Public & Regulatory Crimes,1024
+Kakumiro,22,128,191,30,44,88,3,49,9,6,371,184,15,Property Crimes,Public & Regulatory Crimes,949
+Kagadi,38,108,332,50,34,153,173,221,28,21,528,581,49,Violent Crimes,Public & Regulatory Crimes,1984
+Kikuube,36,58,152,30,44,127,18,120,4,10,276,309,14,Violent Crimes,Public & Regulatory Crimes,1046
+Hoima,56,53,290,28,36,109,233,179,13,15,427,557,28,Violent Crimes,Public & Regulatory Crimes,1734
+Buliisa,12,24,190,8,19,71,19,140,13,8,234,249,8,Violent Crimes,Public & Regulatory Crimes,792
+ALBERTINE,316,619,283,241,316,934,931,237,71,81,1176,2181,152,Violent Crimes,Public & Regulatory Crimes,7018
+Kabarole,40,73,217,41,31,104,263,185,6,22,371,583,28,Violent Crimes,Public & Regulatory Crimes,1747
+Kyegegwa,35,71,213,25,57,153,65,219,2,12,344,494,14,Violent Crimes,Public & Regulatory Crimes,1491
+Bunyagabu,9,44,132,21,12,54,100,129,1,7,206,195,8,Property Crimes,Public & Regulatory Crimes,686
+Kitagwenda,10,45,133,14,14,52,14,129,4,2,202,209,6,Violent Crimes,Public & Regulatory Crimes,701
+Kamwenge,19,86,182,22,39,108,51,192,4,12,309,390,16,Violent Crimes,Public & Regulatory Crimes,1248
+Bundibugyo,16,57,283,10,13,39,2,46,2,8,366,100,10,Property Crimes,Public & Regulatory Crimes,669
+Kyenjojo,92,115,624,42,68,140,19,578,9,23,873,805,32,Property Crimes,Public & Regulatory Crimes,2796
+Ntoroko,7,21,120,8,7,44,35,42,13,2,156,128,2,Property Crimes,Public & Regulatory Crimes,452
+RWENZORI WEST,228,513,283,184,241,692,449,237,28,87,925,1382,115,Violent Crimes,Public & Regulatory Crimes,4844
+Hima,10,109,283,57,26,40,24,237,13,,10,90,0,Violent Crimes,Public & Regulatory Crimes,200
+Katwe Kabatoro,4,5,93,3,3,25,1,22,13,4,105,51,4,Property Crimes,Public & Regulatory Crimes,227
+Kasese,51,48,218,26,20,54,73,80,1,25,343,227,26,Property Crimes,Public & Regulatory Crimes,974
+Bwera,11,78,235,8,10,57,8,48,2,15,332,123,17,Property Crimes,Public & Regulatory Crimes,709
+RWENZORI EAST,76,132,545,37,59,175,106,150,3,43,790,490,46,Property Crimes,Public & Regulatory Crimes,2107
+Arua,156,225,721,219,39,184,32,280,3,35,1321,535,38,Property Crimes,Public & Regulatory Crimes,3067
+Maracha,7,20,99,15,31,37,30,76,2,10,141,174,12,Violent Crimes,Public & Regulatory Crimes,555
+Zombo,19,35,116,8,20,61,59,165,13,7,178,305,7,Violent Crimes,Public & Regulatory Crimes,864
+Nebbi,32,66,204,17,31,69,27,274,7,2,319,401,9,Violent Crimes,Public & Regulatory Crimes,1254
+Pakwach,41,58,203,13,16,91,39,60,1,7,315,206,8,Property Crimes,Public & Regulatory Crimes,855
+Terego,5,15,53,12,14,55,7,32,13,5,85,108,5,Violent Crimes,Public & Regulatory Crimes,343
+Madi Okolo,5,12,51,9,16,43,10,47,1,3,77,116,4,Violent Crimes,Public & Regulatory Crimes,343
+Koboko,125,89,422,21,25,115,61,182,8,23,657,383,31,Property Crimes,Public & Regulatory Crimes,1720
+WEST NILE,389,521,283,314,194,656,265,237,22,92,1224,1115,114,Property Crimes,Public & Regulatory Crimes,4906
+Yumbe,8,79,309,41,16,120,97,226,2,18,437,459,20,Violent Crimes,Public & Regulatory Crimes,1523
+Moyo,17,17,132,6,12,43,22,142,5,4,172,219,9,Violent Crimes,Public & Regulatory Crimes,668
+Obongi,30,23,148,14,10,128,35,273,6,5,215,446,11,Violent Crimes,Public & Regulatory Crimes,1196
+Adjumani,29,24,150,9,38,119,42,74,4,,212,273,4,Violent Crimes,Public & Regulatory Crimes,828
+NORTH  WEST NILE,84,144,740,70,75,409,196,714,17,27,1038,1394,44,Violent Crimes,Public & Regulatory Crimes,4212
+Lamwo,7,9,16,6,18,57,4,37,2,4,38,116,6,Violent Crimes,Public & Regulatory Crimes,304
+Agago,35,88,223,33,35,121,110,477,2,13,379,743,15,Violent Crimes,Public & Regulatory Crimes,2051
+Nwoya,36,54,142,31,29,102,37,206,1,4,263,374,5,Violent Crimes,Public & Regulatory Crimes,1142
+Amuru,18,36,88,27,38,81,130,104,13,1,169,353,1,Violent Crimes,Public & Regulatory Crimes,958
+Omoro,9,34,51,10,33,94,162,231,2,5,104,520,7,Violent Crimes,Public & Regulatory Crimes,1211
+Kitgum,16,61,162,25,39,115,25,204,13,7,264,383,7,Violent Crimes,Public & Regulatory Crimes,1146
+Pader,14,50,96,35,33,107,48,188,1,2,195,376,3,Violent Crimes,Public & Regulatory Crimes,1052
+Gulu,54,163,375,73,41,180,284,498,1,62,665,1003,63,Violent Crimes,Public & Regulatory Crimes,3087
+ASWA,189,496,283,241,266,858,801,237,9,97,926,1925,106,Violent Crimes,Public & Regulatory Crimes,5914
+Lira,78,98,405,66,62,149,45,251,2,5,647,507,7,Property Crimes,Public & Regulatory Crimes,1917
+Apac,15,45,132,22,16,82,9,116,13,,214,223,0,Violent Crimes,Public & Regulatory Crimes,742
+Oyam,18,53,193,12,43,124,54,256,13,12,276,477,12,Violent Crimes,Public & Regulatory Crimes,1337
+Kwania,6,11,28,12,7,47,23,160,13,1,57,237,1,Violent Crimes,Public & Regulatory Crimes,562
+Amolatar,48,37,192,28,18,104,138,306,1,9,305,566,10,Violent Crimes,Public & Regulatory Crimes,1570
+Kole,27,55,174,10,31,86,28,284,13,,266,429,0,Violent Crimes,Public & Regulatory Crimes,1216
+Alebtong,9,27,149,20,14,108,17,244,1,7,205,383,8,Violent Crimes,Public & Regulatory Crimes,1043
+Otuke,24,16,165,26,12,100,54,524,13,,231,690,0,Violent Crimes,Public & Regulatory Crimes,1677
+Dokolo,48,35,211,24,14,73,93,345,7,5,318,525,12,Violent Crimes,Public & Regulatory Crimes,1499
+NORTH KYOGA,273,378,283,221,218,873,462,237,11,38,872,1553,49,Violent Crimes,Public & Regulatory Crimes,4948
+Abim,27,34,118,13,15,61,45,209,1,1,192,330,2,Violent Crimes,Public & Regulatory Crimes,930
+Kotido,16,14,137,7,24,38,33,110,12,,174,205,12,Violent Crimes,Public & Regulatory Crimes,645
+Karenga,12,5,37,3,7,10,6,86,2,,57,109,2,Violent Crimes,Public & Regulatory Crimes,299
+Kaabong,12,12,51,9,23,44,24,147,3,,84,238,3,Violent Crimes,Public & Regulatory Crimes,599
+KIDEPO,67,65,344,32,69,153,109,553,18,1,508,884,19,Violent Crimes,Public & Regulatory Crimes,2478
+Nakapiripirit,36,22,189,16,15,34,30,381,13,2,263,460,2,Violent Crimes,Public & Regulatory Crimes,1261
+Amudat,33,26,144,4,10,60,19,271,2,2,207,360,4,Violent Crimes,Public & Regulatory Crimes,998
+Napak,13,10,95,15,20,34,25,259,6,,133,338,6,Violent Crimes,Public & Regulatory Crimes,859
+Nabilatuk,7,7,49,5,18,24,19,348,13,,68,409,0,Violent Crimes,Public & Regulatory Crimes,905
+Moroto,22,41,169,22,30,87,57,154,14,2,254,328,16,Violent Crimes,Public & Regulatory Crimes,1027
+MT MOROTO,111,107,648,62,92,239,151,237,22,6,928,482,28,Property Crimes,Public & Regulatory Crimes,2228
+Soroti,71,64,339,26,44,172,126,201,3,13,500,543,16,Violent Crimes,Public & Regulatory Crimes,1779
+Kapelebyong,47,14,155,5,13,90,27,324,13,7,221,454,7,Violent Crimes,Public & Regulatory Crimes,1209
+Kabermaido,4,16,59,7,18,45,21,122,13,,86,206,0,Violent Crimes,Public & Regulatory Crimes,525
+Katakwi,23,20,136,15,19,115,27,315,4,9,194,476,13,Violent Crimes,Public & Regulatory Crimes,1230
+Ngora,17,81,320,19,16,83,85,414,18,,437,598,18,Violent Crimes,Public & Regulatory Crimes,1786
+Serere,20,27,119,14,10,124,20,137,13,8,180,291,8,Violent Crimes,Public & Regulatory Crimes,839
+Amuria,15,10,58,9,9,109,75,64,13,8,92,257,8,Violent Crimes,Public & Regulatory Crimes,656
+Kalaki,5,15,29,1,8,29,41,63,1,5,50,141,6,Violent Crimes,Public & Regulatory Crimes,365
+Bukedea,29,26,155,5,12,137,83,80,1,10,215,312,11,Violent Crimes,Public & Regulatory Crimes,921
+Kumi,28,33,165,5,17,112,1,307,4,7,231,437,11,Violent Crimes,Public & Regulatory Crimes,1193
+EAST KYOGA,259,308,283,106,167,168,506,237,31,66,673,673,97,Property Crimes,Public & Regulatory Crimes,2886
+Kapchorwa,232,97,560,33,3,214,100,723,13,3,922,1040,3,Violent Crimes,Public & Regulatory Crimes,3370
+Kween,166,59,377,28,18,135,195,670,13,1,630,1018,1,Violent Crimes,Public & Regulatory Crimes,2921
+Bukwo,65,30,126,17,14,81,43,270,5,5,238,408,10,Violent Crimes,Public & Regulatory Crimes,1186
+SIPI,462,186,283,78,35,430,338,237,5,9,726,803,14,Violent Crimes,Public & Regulatory Crimes,3086
+Mbale,132,156,707,124,37,263,23,190,53,29,1119,513,82,Property Crimes,Public & Regulatory Crimes,2721
+Namisindwa,40,52,153,15,14,81,85,127,13,18,260,307,18,Violent Crimes,Public & Regulatory Crimes,1017
+Manafwa,43,40,178,9,11,92,64,116,7,11,270,283,18,Violent Crimes,Public & Regulatory Crimes,964
+Bududa,33,64,199,14,11,171,6,61,1,6,310,249,7,Property Crimes,Public & Regulatory Crimes,933
+Sironko,23,11,155,3,11,131,27,57,2,5,192,226,7,Violent Crimes,Public & Regulatory Crimes,695
+Bulambuli,94,86,311,19,29,166,103,310,26,4,510,608,30,Violent Crimes,Public & Regulatory Crimes,1985
+ELGON,364,410,283,185,113,905,308,861,89,72,959,2187,161,Violent Crimes,Public & Regulatory Crimes,6614
+Butaleja,50,26,108,7,17,65,28,89,2,4,191,199,6,Violent Crimes,Public & Regulatory Crimes,684
+Tororo,85,150,434,43,52,232,263,491,2,10,712,1038,12,Violent Crimes,Public & Regulatory Crimes,3090
+Busia,71,84,181,28,44,84,245,183,14,8,364,556,22,Violent Crimes,Public & Regulatory Crimes,1703
+BUKEDI,206,260,724,78,112,381,536,763,18,22,1268,1792,40,Violent Crimes,Public & Regulatory Crimes,5476
+Budaka,58,77,257,21,42,129,68,80,13,4,413,319,17,Property Crimes,Public & Regulatory Crimes,1241
+Butebo,38,61,206,7,5,77,37,371,15,2,312,490,17,Violent Crimes,Public & Regulatory Crimes,1432
+Kibuku,95,63,228,12,19,111,62,317,10,,398,509,10,Violent Crimes,Public & Regulatory Crimes,1606
+Pallisa,29,95,290,7,10,105,36,189,16,5,421,340,21,Property Crimes,Public & Regulatory Crimes,1274
+BUKEDI NORTH,220,297,979,47,76,422,203,956,54,11,1543,1657,65,Violent Crimes,Public & Regulatory Crimes,5551
+Kamuli,214,190,612,61,45,263,96,501,29,13,1077,905,42,Property Crimes,Public & Regulatory Crimes,3436
+Kaliro,41,31,122,10,14,66,32,197,7,1,204,309,8,Violent Crimes,Public & Regulatory Crimes,920
+Buyende,181,76,379,25,18,217,20,102,7,3,661,357,10,Property Crimes,Public & Regulatory Crimes,1677
+Luuka,29,31,122,7,7,76,100,51,5,6,189,134,11,Property Crimes,Public & Regulatory Crimes,546
+BUSOGA NORTH,464,329,283,103,84,622,149,851,48,23,896,1706,71,Violent Crimes,Public & Regulatory Crimes,5346
+Iganga,91,159,355,60,41,145,50,222,29,13,665,458,42,Property Crimes,Public & Regulatory Crimes,1975
+Bugiri,25,66,180,17,41,114,52,195,6,3,288,402,9,Violent Crimes,Public & Regulatory Crimes,1218
+Mayuge,63,76,190,24,54,142,70,123,44,3,353,389,47,Violent Crimes,Public & Regulatory Crimes,1388
+Namutumba,39,45,96,6,35,104,85,79,4,4,186,303,8,Violent Crimes,Public & Regulatory Crimes,898
+Bugweri,23,40,75,11,16,98,69,63,4,2,149,246,6,Violent Crimes,Public & Regulatory Crimes,727
+Namayingo,19,38,130,23,22,93,95,110,6,3,210,320,9,Violent Crimes,Public & Regulatory Crimes,948
+BUSOGA EAST,260,426,283,141,209,696,421,792,93,28,827,2118,121,Violent Crimes,Public & Regulatory Crimes,6132
+Jinja,131,105,470,70,73,94,228,140,27,44,776,535,71,Property Crimes,Public & Regulatory Crimes,2294
+Buwenge,29,26,108,7,25,47,27,83,4,4,170,182,8,Violent Crimes,Public & Regulatory Crimes,612
+Kakira,21,31,109,29,24,40,34,141,4,6,190,239,10,Violent Crimes,Public & Regulatory Crimes,769
+KIIRA,181,162,688,106,123,180,289,364,35,54,1137,956,89,Property Crimes,Public & Regulatory Crimes,3676
